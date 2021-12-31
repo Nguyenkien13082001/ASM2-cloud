@@ -1,0 +1,26 @@
+{
+  "name": "asm2-1644",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nguyenkien13082001/ASM2-1644.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nguyenkien13082001/ASM2-1644/issues"
+  },
+  "homepage": "https://github.com/Nguyenkien13082001/ASM2-1644#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "hbs": "^4.2.0",
+    "mongodb": "^4.2.2",
+    "nodemon": "^2.0.15"
+  }
+}
